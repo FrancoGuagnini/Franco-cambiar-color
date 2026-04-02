@@ -1,0 +1,5 @@
+{
+  "name": "Color Transformer",
+  "description": "Change the color of clothes in your photos using AI by providing a color name, hex code, or a reference image.",
+  "requestFramePermissions": []
+}
